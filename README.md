@@ -74,11 +74,19 @@ To install and run this project, follow these steps:
     ```sh
     pip install -r requirements.txt
     ```
-
+    
 ## Usage
+- **A3DS dataset**: sandbox_3Dshapes_1000.pkl
 
-To generate captions for images, run the following script:
+## Contributing
+We welcome contributions from the community. To contribute, follow these steps:
 
-```sh
-python caption_images.py --image_path /path/to/your/image.jpg
+1. Fork the repository
+2. Create a new branch
+3. Make your changes and commit them
+4. Push to the branch
+5. Open a pull request
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
