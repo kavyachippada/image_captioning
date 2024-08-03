@@ -56,7 +56,7 @@ To install and run this project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/image-captioning-vitgpt2.git
+    git clone https://github.com/kavyachippada/image_captioning.git
     ```
 
 2. Navigate to the project directory:
