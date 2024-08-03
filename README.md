@@ -61,7 +61,7 @@ To install and run this project, follow these steps:
 
 2. Navigate to the project directory:
     ```sh
-    cd image-captioning-vitgpt2
+    cd image_captioning
     ```
 
 3. Create and activate a virtual environment:
